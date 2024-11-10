@@ -54,3 +54,9 @@ pub struct User {
 
 
 pub mod colors;
+
+pub mod text_style;
+
+pub mod config;
+
+pub mod private_enums;

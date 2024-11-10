@@ -4,3 +4,11 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+
+[lib]
+name = "my_library"
+path = "src/lib.rs"
+
+[[test]]
+name = "test_text_styles"
+path = "tests/test_text_styles.rs"
