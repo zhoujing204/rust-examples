@@ -1,0 +1,8 @@
+Test information for rust file reader program.
+
+-------------------
+1: Hello
+2: World
+-------------------
+
+File read successfully!
